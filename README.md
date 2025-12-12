@@ -1,4 +1,4 @@
-# BotC-Scripts
+# Blood on the Clocktower Scripts
 
 This repository is for storing custom scripts for [Blood on the Clocktower](https://bloodontheclocktower.com/).
 
