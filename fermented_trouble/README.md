@@ -1,0 +1,3 @@
+# Fermented Trouble
+
+This script is designed to be only slightly more complex than 'Trouble Brewing'. It is intended to provide a different and interesting experience for those who have played 'Trouble Brewing' many times, while still keeping it approachable for new (but not necessarily brand new) players.
