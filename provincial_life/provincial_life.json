@@ -1,8 +1,8 @@
 [
   {
     "id": "_meta",
-    "author": "Kaden",
-    "name": "A Provincial Life"
+    "name": "A Provincial Life",
+    "author": "Kaden"
   },
   "librarian",
   "preacher",
@@ -17,17 +17,16 @@
   "cannibal",
   "farmer",
   "tealady",
-  "hermit",
   "drunk",
   "barber",
+  "hatter",
   "damsel",
   "witch",
   "psychopath",
-  "widow",
+  "wraith",
   "eviltwin",
   "yaggababble",
+  "imp",
   "ojo",
-  "fanggu",
-  "lleech",
-  "gardener"
+  "lleech"
 ]
