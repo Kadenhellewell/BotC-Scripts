@@ -1,16 +1,16 @@
 [
   {
     "id": "_meta",
-    "author": "Kaden",
-    "name": "A Court of Demons"
+    "name": "A Court of Demons",
+    "author": "Kaden"
   },
   "steward",
   "knight",
   "noble",
-  "shugenja",
   "highpriestess",
   "general",
   "king",
+  "oracle",
   "nightwatchman",
   "courtier",
   "princess",
@@ -21,12 +21,12 @@
   "goon",
   "politician",
   "snitch",
-  "fearmonger",
+  "assassin",
   "boomdandy",
   "vizier",
   "baron",
   "yaggababble",
-  "zombuul",
+  "lilmonsta",
   "lordoftyphon",
   "alhadikhia",
   "gardener"
